@@ -14,10 +14,10 @@ https://velog.io/@fhohffodf/posts
 <h3>< DB ></h3> <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=MYSQL&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/JPA-%236DB33F?style=for-the-badge&logo=JPA&logoColor=white">
 
-<h3>< Backend ></h3>  <br>
+<h3>< Backend ></h3> <br>
 <img alt="java" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
-<h3>< Frontend ></h3>  <br>
+<h3>< Frontend ></h3> <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/JQUERY-%230769AD?style=for-the-badge&logo=JQUERY&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white">
 
 <h3>< Framework ></h3> <br>
