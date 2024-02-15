@@ -23,5 +23,4 @@
 
 
 
-[![<fhohffodf93@gmail.com>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<fhohffodf93@gmail.com>)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejonghyun93&show_icons=true&theme=radical)
