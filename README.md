@@ -12,6 +12,7 @@ https://velog.io/@fhohffodf/posts
 <h3 align="center">🛠 Skills 🛠 </h3>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">< DB ></h3> <br>
+<p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=MYSQL&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/JPA-%236DB33F?style=for-the-badge&logo=JPA&logoColor=white">
 
 <h3 align="center">< Backend ></h3> <br>
