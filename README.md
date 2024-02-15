@@ -9,7 +9,7 @@
 <img alt="java" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white">
 
 < DB > <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=MYSQL&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-%23003545?logo=MariaDB&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=MYSQL&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 
 
 < Other Skill > <br>
