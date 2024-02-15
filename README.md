@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=backend%20developer&fontSize=90)
 
-<h3 align="center">💻 my log 💻</h3>
+<h3>💻 my log 💻</h3>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/VELOG-%2320C997?style=for-the-badge&logo=VELOG&logoColor=white">
 
