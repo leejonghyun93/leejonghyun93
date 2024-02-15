@@ -19,7 +19,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA"> <img alt="Static Badge" src="https://img.shields.io/badge/DBEAVER-%23382923?style=for-the-badge&logo=DBEAVER"> <img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=GITHUB"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
+[![<fhohffodf93@gmail.com>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<fhohffodf93@gmail.com>)](https://github.com/anuraghazra/github-readme-stats)
 
