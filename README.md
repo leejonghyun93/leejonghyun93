@@ -4,6 +4,8 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/VELOG-%2320C997?style=for-the-badge&logo=VELOG&logoColor=white">
 
+https://velog.io/@fhohffodf/posts
+
 
 🛠 Skills
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
