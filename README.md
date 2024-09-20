@@ -22,7 +22,8 @@ https://velog.io/@fhohffodf/posts
 <h3>< Frontend ></h3>
   
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/JQUERY-%230769AD?style=for-the-badge&logo=JQUERY&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/React%61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 <h3>< Framework ></h3>
   
