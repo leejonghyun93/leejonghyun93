@@ -14,7 +14,8 @@ https://velog.io/@fhohffodf/posts
 <h3>< DB ></h3>
   
 <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=MYSQL&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/JPA-%236DB33F?style=for-the-badge&logo=JPA&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Orecle-%23E34F26A1?style=for-the-badge&logo=MYSQL&logoColor=white"> 
+<img alt="Oracle 19c" src="https://img.shields.io/badge/Oracle-19c-%234479A1?style=for-the-badge&logo=oracle&logoColor=white">
+
 
 
 <h3>< Backend ></h3>
