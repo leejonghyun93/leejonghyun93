@@ -33,7 +33,7 @@ https://velog.io/@fhohffodf/posts
 <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=SPRING&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/SPRINGBOOT-%236DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/SPRING%20SECURITY-%236DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> <br> <img alt="Static Badge" src="https://img.shields.io/badge/MYBATIS-%2326689A?style=for-the-badge&logo=MYBATIS&logoColor=white">
 
 <h3>< Architecture ></h3>
-<img src="https://img.shields.io/badge/MSA-000000.svg?style=for-the-badge&logo=architect&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Cloud-339933.svg?style=for-the-badge&logo=spring&logoColor=white" />
 
 
 <h3>< Tool ></h3>
