@@ -6,6 +6,7 @@
 
 https://velog.io/@fhohffodf/posts
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Notion-%2320C937?style=for-the-badge&logo=Notion&logoColor=white">
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
