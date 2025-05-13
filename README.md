@@ -6,9 +6,6 @@
 
 https://velog.io/@fhohffodf/posts
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Notion-%2320C937?style=for-the-badge&logo=Notion&logoColor=white">
-
-https://parallel-munchkin-6a9.notion.site/_-25-1ad1f1b55e8780f38407d181320dec52?pvs=4
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
