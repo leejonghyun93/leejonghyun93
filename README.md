@@ -20,8 +20,7 @@ https://velog.io/@fhohffodf/posts
 
 <h3>< Backend ></h3>
 
-<img alt="java" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="python" src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="java" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="python" src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 <h3>< Frontend ></h3>
   
